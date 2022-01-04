@@ -1,0 +1,13 @@
+package dz.bdjaghout.playgraphql;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PlayGraphqlApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
